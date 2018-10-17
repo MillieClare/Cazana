@@ -18,4 +18,4 @@ npm install moment
 ## Results
 
 When you run the programe, both average annual and estimated mileage is printed. 
-![results image](/cazana/results.png 'results image')
+![results image](/images/results.png 'results image')
